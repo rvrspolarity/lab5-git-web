@@ -1,2 +1,2 @@
-# lab5-git-web
-Laba 5 github
+# lab4-git-web
+Лабораторна робота № 4 з Git та GitHub
